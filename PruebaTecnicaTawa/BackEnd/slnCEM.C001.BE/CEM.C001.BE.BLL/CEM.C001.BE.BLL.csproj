@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BLL_GC_Tipo_Consulta.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CEM.C001.BE.DAL\CEM.C001.BE.DAL.csproj" />
+    <ProjectReference Include="..\CEM.C001.BE.Interface\CEM.C001.BE.Interface.csproj" />
+    <ProjectReference Include="..\CEM.C001.BE.Model\CEM.C001.BE.Model.csproj" />
+  </ItemGroup>
+
+</Project>

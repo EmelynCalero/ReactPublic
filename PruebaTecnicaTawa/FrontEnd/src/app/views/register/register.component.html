@@ -1,0 +1,110 @@
+<div class="app-body register">
+  <main class="main d-flex align-items-center">
+    <div class="container-fluid p-0">
+      <div class="row">
+        <div class="col-md-12 mx-auto">
+          <div class="row">
+            <div class="card col-lg-6 col-md-12 col-sm-12 text-white bg-login py-5 d-md-down-none height-100" >
+              <div class="card-header text-center flex-content" >
+                <div class="text-right">
+                  <h1 class="titulo-login" style="color: black;">Prueba Técnica</h1>                 
+                </div>
+              </div>             
+              <div class="card-body text-center flex-content" >               
+              </div>
+            </div>
+            <div class="d-flex col-lg-6 col-md-12 col-sm-12 bg-white " >
+              <div>                
+              </div>
+              <div class="card-body align-self-center height-100 form-register">
+            <div class="row ">
+                  <div class="col-12"><h2 class="text-left mb-4 h5">Ingrese sus datos personales</h2></div>
+                  <div class="input-group mb-3 col-6">
+                    <div class="btn-group" style="height: 35px;">
+                      <button type="button" class="btn btn-primary">{{gloH001_TipoDocumento}}</button>
+                      <div class="btn-group" ngbDropdown role="group" aria-label="Button group with nested dropdown">
+                        <button class="btn btn-primary rounded-0 dropdown-toggle-split" ngbDropdownToggle></button>
+                        <div class="dropdown-menu" ngbDropdownMenu>
+                          <button  ngbDropdownItem></button>
+                        </div>
+                      </div>
+                    </div>
+                  <input type="text" type="text" class="form-control" placeholder=" Número de Documento">
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <input type="text" class="form-control" placeholder="Nombre">
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <input type="text" class="form-control"  placeholder="Apellido paterno">
+                </div>
+                <div class="input-group mb-3 col-6">
+                   <input type="text" class="form-control" placeholder="Apellido materno">
+               </div>
+                <div class="input-group mb-3 col-6">
+                  <input class="form-control" placeholder="dd/mm/yyyy"
+                  name="dp" ngbDatepicker #d="ngbDatepicker">
+                  <div class="input-group-append">
+                    <button class="btn btn-primary calendar icon-calendar" (click)="d.toggle()" type="button"></button>
+                  </div>                  
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <div class="form-check form-check-inline mr-3">
+                    <input class="form-check-input" name="Sexo" type="radio" value="F">
+                    <label class="form-check-label">Femenino</label>
+                  </div>
+                  <div class="form-check form-check-inline mr-1">
+                    <input class="form-check-input" name="Sexo" type="radio" value="M">
+                    <label class="form-check-label">Masculino</label>
+                  </div>
+                </div>
+
+                <div class="input-group mb-3 col-6">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text bg-primary">@</span>
+                  </div>
+                  <input type="text" class="form-control" placeholder="Correo electrónico">
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text bg-primary"><i class="icon-phone"></i></span>
+                  </div>
+                  <input type="text"  class="form-control"  placeholder="Número celular">                  
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <input type="text" class="form-control" placeholder="Dirección">
+               </div>
+                <div class="input-group mb-3 col-6">
+                  <select class="form-control bg-transparent">
+                    <option [ngValue]="null" disabled>-- Seleccione departamento--</option>                    
+                  </select>                 
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <select class="form-control bg-transparent">
+                    <option [ngValue]="null" disabled>-- Seleccione provincia--</option>                    
+                  </select>                 
+                </div>
+                <div class="input-group mb-3 col-6">
+                  <select class="form-control bg-transparent">
+                    <option [ngValue]="null" disabled>-- Seleccione distrito--</option>                   
+                  </select>                 
+                </div>
+              
+
+                <div class="col-6">
+                
+              </div>
+              <div class="col-6">
+                <button type="button" class="btn btn-block btn-primary" (click)="InsertarPaciente()">Crear Cuenta</button>
+              </div>
+            </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<ngx-spinner bdColor = "rgba(0, 0, 0, 0.8)" size = "medium" color = "#fff" type = "timer" [fullScreen] = "true">
+  <p style="color: white" > Procesando ... </p>
+</ngx-spinner>

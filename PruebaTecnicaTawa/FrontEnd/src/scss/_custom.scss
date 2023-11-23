@@ -1,0 +1,330 @@
+// regular style toast
+@import '~ngx-toastr/toastr';
+
+// Here you can add other styles
+body .bg-primary {
+    background-color: $celeste!important;
+}
+
+body .text-primary {
+    color: $celeste!important;
+}
+
+body .text-info {
+    color: $azul!important;
+}
+
+body {
+    font-family: trasandina-light;
+}
+
+h1 {
+    font-family: trasandina-regular;
+}
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.corazon-rojo{
+    background-image: $rojo!important;
+}
+.fw-regular {
+    font-family: trasandina-regular;
+    line-height: 1;
+}
+
+body {    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.breadcrumb {
+    border-bottom: 0;
+    background-color: transparent;
+    margin-bottom: 0;
+    @media (max-width:768px) {
+        display:none;
+    }
+}
+
+.btn-primary {
+    background-color: $celeste!important;
+    border-color: $celeste!important;
+}
+
+
+.btn-login-primary {
+  background-color: $celeste!important;
+  border-color: $celeste!important;
+  border-radius: 0px;
+  color: #fff;
+}
+
+.btn-outline-primary {
+    border-color: $celeste!important;
+    color: $celeste!important;
+}
+
+.border-primary{
+    border-color: $celeste!important;
+}
+
+.btn-info {
+    background-color: $azul!important;
+    border-color: $azul!important;
+    color: white!important;
+}
+
+.box-scroll {
+    height: 50vh;
+    overflow-y: scroll;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent url(./../assets/img/flecha.svg) no-repeat 96% center;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+input#search {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent url(./../assets/img/buscar.svg) no-repeat 2% center;
+    padding-left: 1.8rem;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-gray{
+    color: #6b6b6b;
+}
+
+[ngbDatepickerDayView]{
+    border-radius: 50%!important;
+}
+
+
+.box-scroll::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  /* Track */
+  .box-scroll::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  /* Handle */
+  .box-scroll::-webkit-scrollbar-thumb {
+    background: $azul;
+  }
+
+  /* Handle on hover */
+  .box-scroll::-webkit-scrollbar-thumb:hover {
+    background: rgb(146, 146, 146);
+  }
+
+
+@media (max-width:768px){
+    ::-webkit-scrollbar {
+        height: 3px;
+      }
+
+      /* Track */
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+      }
+
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+        background: $celeste;
+      }
+
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgb(146, 146, 146);
+      }
+}
+
+cui-breadcrumb {
+    @media (max-width:991px){
+        position: relative;
+        left: 20%;
+    }
+}
+
+.horario {
+    .px-3 {
+        @media (max-width:1241px){
+            padding: 0!important;
+        }
+    }
+}
+
+.btn-standar {
+    width: 140px;
+    @media (max-width:768px) {
+        /*width: 100%;*/
+    }
+}
+
+.menuitemcard :hover{
+    //box-shadow: 8px 8px 8px blue;
+    background-color: #F0F3F5;
+}
+
+.menuitemcardactive{
+  //box-shadow: 8px 8px 8px blue;
+  background-color: #F0F3F5;
+  border-color: #38B2E7;
+}
+
+
+.medicoitemcard :hover{
+  //box-shadow: 8px 8px 8px blue;
+  background-color: #c8ced3;
+}
+
+.medicoitemcardctive{
+//box-shadow: 8px 8px 8px blue;
+background-color: #F0F3F5;
+border-color: #38B2E7;
+}
+
+.btn-pointer {
+    cursor: pointer;
+}
+
+.steptitle {
+    font-family: trasandina-regular;
+}
+
+.stepper-left {
+    position: relative;
+    right: 34px;
+}
+
+.btnSignOut{
+    color: #20a8d8 !important;
+    text-decoration: none !important;
+    background-color: transparent;
+}
+a.btnSignOut:hover{
+    color: #223974 !important;
+    text-decoration: underline !important;
+    background-color: transparent;
+}
+
+/* Range calendar */
+.ngb-dp-day.disabled > div {
+  background-color:#B4B4B4;
+  text-decoration: line-through;
+  color:#0F0F0F !important;
+}
+
+.ngb-dp-day > div {
+  // border-radius: 50% !important;
+  // background-color:#38B2E7;
+  // color: #fff !important;
+  margin-left: .25rem;
+  margin-top: .25rem;
+}
+
+// .ngb-dp-today > .btn-light {
+//   background-color: #223974 !important;
+//   color: #fff !important;
+// }
+
+.ngb-dp-day > .btn-light {
+  border-radius: 50% !important;
+  background-color:#38B2E7;
+  color: #fff !important;
+}
+
+.ngb-dp-day > .bg-primary {
+  background-color: #223974 !important;
+  color: #fff !important;
+}
+
+[ngbDatepickerDayView] {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+  line-height: 1.5rem !important;
+}
+
+.icon-inactivo{
+    font-size: 3rem;
+    color: $rojo;
+}
+
+a.Item-VerDetalle{
+  cursor: pointer !important;
+  color: #20a8d8 !important;
+}
+
+a.Item-VerDetalle:hover{
+  cursor: pointer !important;
+  color: #223974 !important;
+}
+
+a.Item-VerDetalle:hover i {
+  color: #223974 !important;
+}
+
+a.Item-QuitarMedico{
+  cursor: pointer !important;
+  color: #20a8d8 !important;
+}
+
+a.Item-QuitarMedico:hover{
+  cursor: pointer !important;
+  color: #223974 !important;
+}
+
+a.Item-QuitarMedico:hover i {
+  color: #20a8d8 !important;
+}
+
+a.Item-AnadirMedico{
+  cursor: pointer !important;
+  color: #20a8d8 !important;
+}
+
+a.Item-AnadirMedico:hover{
+  cursor: pointer !important;
+  color: #223974 !important;
+}
+
+a.Item-AnadirMedico:hover i {
+  color: #f86c6b !important;
+}
+
+
+.btn-secondary.disabled, .btn-secondary:disabled {
+  color: #23282c;
+  background-color: #c8ced3;
+  border-color: #c8ced3;
+  cursor: not-allowed;
+  text-decoration: line-through;
+}
+
+.invalid-feedback-password{
+  width:100%;
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #f86c6b;
+}
+
+.RecuperarContraseniaFallidaFondo{
+  background-color: aliceblue !important;
+  height: 100vh !important;
+}

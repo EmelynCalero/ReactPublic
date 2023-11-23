@@ -1,0 +1,83 @@
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.deps.json
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.pdb
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.pdb
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csprojAssemblyReference.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfoInputs.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfo.cs
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CoreCompileInputs.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CopyComplete
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csprojAssemblyReference.cache
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfoInputs.cache
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfo.cs
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CoreCompileInputs.cache
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.deps.json
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.dll
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.dll
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.pdb
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.pdb
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CopyComplete
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Proyecto CEM\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.deps.json
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.dll
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.dll
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.pdb
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.pdb
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.AssemblyReference.cache
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfoInputs.cache
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfo.cs
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CoreCompileInputs.cache
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CopyComplete
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\josez\OneDrive\Documentos\Jose\EspecialidadesMedicas\Postulacion\Codigofuente\PruebaTecnicaCEM\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.deps.json
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.dll
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.dll
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.pdb
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.pdb
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.AssemblyReference.cache
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfoInputs.cache
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfo.cs
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CoreCompileInputs.cache
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CopyComplete
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\andree.galdos\Downloads\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.deps.json
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.DAL.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Interface.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\bin\Debug\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.AssemblyReference.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfoInputs.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.AssemblyInfo.cs
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.csproj.CopyComplete
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.BLL\obj\Debug\netstandard2.0\CEM.C001.BE.BLL.pdb

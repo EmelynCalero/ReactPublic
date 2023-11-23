@@ -1,0 +1,46 @@
+.app-body .sidebar {
+    background: $celeste;
+}
+body .sidebar .nav-link.active, body .sidebar .nav-dropdown.open, body .sidebar .nav-link:hover {
+    background: $azul;
+}
+
+.sidebar {
+    .nav-link {
+        line-height: 1;
+        border-bottom: 1px solid rgb(255 255 255 / 42%);
+        padding: 0.75rem .8rem 0.75rem 2.6rem;
+        .nav-icon {
+            color: $white;
+            position: absolute;
+            left: 15px;
+        }
+                
+    } 
+}
+
+app-header {
+        .navbar-toggler.d-none.d-md-block{
+            display:none!important;
+        }
+}
+
+
+@media (max-width: 991.98px){
+    .app-header .navbar-brand {
+        position: absolute;
+        top: 0;
+        left: 15%;
+        margin-left: -77.5px;
+    }
+}
+
+
+@media (max-width: 668px){
+    .app-header .navbar-brand {
+        position: absolute;
+        top: 0;
+        left: 30%;
+    }
+}
+

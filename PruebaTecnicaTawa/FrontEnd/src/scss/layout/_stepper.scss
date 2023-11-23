@@ -1,0 +1,126 @@
+// Stepper
+.stepper {
+    .nav-tabs {
+        position: relative;
+        border-bottom: 0!important;
+    }
+    .nav-tabs > li {
+        width: 25%;
+        position: relative;
+        &:after {
+            content: '';
+            position: absolute;
+            background:#BDBEBE;
+            display: block;
+            width: 20vw;
+            height: 5px;
+            top: 10px;
+            left: 0;
+            z-index: 1;
+        }
+        &.completed {
+            &::after {
+                background: $celeste;
+            }
+        }
+        &:last-child {
+            &::after {
+                background: transparent;
+            }
+        }
+        &.active:last-child {
+            .round-tab {
+                background: $celeste;
+                &::after {
+                    content: '✔';
+                    color: #fff;
+                    position: absolute;
+                    left: 0;
+                    right: 0;
+                    margin: 0 auto;
+                    top: 0;
+                    display: block;
+                }
+            }
+        }
+    }
+    .nav-tabs [data-toggle='tab'] {
+        width: 25px;
+        height: 25px;
+        margin: 20px auto;
+        border-radius: 100%;
+        border: none;
+        padding: 0;
+        color: #BDBEBE;
+    }
+    .nav-tabs [data-toggle='tab']:hover {
+        background: transparent;
+        border: none;
+    }
+    .nav-tabs > .active > [data-toggle='tab'], .nav-tabs > .active > [data-toggle='tab']:hover, .nav-tabs > .active > [data-toggle='tab']:focus {
+        color: $celeste;
+        cursor: default;
+        border: none;
+    }
+    .tab-pane {
+        position: relative;
+        padding-top: 50px;
+    }
+    .round-tab {
+        width: 25px;
+        height: 25px;
+        /*line-height: 22px;*/
+        display: inline-block;
+        border-radius: 25px;
+        background: #fff;
+        border: 2px solid $celeste;
+        color: $celeste;
+        z-index: 2;
+        position: absolute;
+        left: 0;
+        text-align: center;
+        font-size: 14px;
+        
+    }
+    .completed .round-tab{
+    	background: $celeste;
+    	&::after {
+    		content: '✔';
+    		color: #fff;
+    		position: absolute;
+    		left: 0;
+    		right: 0;
+    		margin: 0 auto;
+    		top: 0;
+    		display: block;
+        }
+    }
+    .active .round-tab {
+        background: #fff;
+        border: 2px solid $celeste;
+        &:hover {
+            background: #fff;
+            border: 2px solid $celeste;
+        }
+        &::after {
+            display: none;
+        }
+    }
+    .disabled .round-tab {
+        background: #fff;
+        color: #BDBEBE;
+        border-color: #BDBEBE;
+        &:hover {
+            color: $celeste;
+            border: 2px solid #a6dfd3;
+        }
+        &::after {
+            display: none;
+        }
+    }
+    .steptitle{
+        width: 20vw;
+        padding-top: 20px;
+        /*color:#BDBEBE;*/
+    }
+}

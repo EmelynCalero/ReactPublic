@@ -1,0 +1,19 @@
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.deps.json
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.csprojAssemblyReference.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.AssemblyInfoInputs.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.AssemblyInfo.cs
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.csproj.CoreCompileInputs.cache
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Proyecto CEM\Proyectos\C001 - Citas\C001\CEM.C001.BE\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.deps.json
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\bin\Release\netstandard2.0\CEM.C001.BE.Model.pdb
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.csproj.AssemblyReference.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.AssemblyInfoInputs.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.AssemblyInfo.cs
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.csproj.CoreCompileInputs.cache
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.dll
+C:\Users\Em\Desktop\PruebaTecnicaTawa\PruebaTecnicaTawa\BackEnd\slnCEM.C001.BE\CEM.C001.BE.Model\obj\Release\netstandard2.0\CEM.C001.BE.Model.pdb

@@ -1,0 +1,30 @@
+<app-header
+  [navbarBrandRouterLink]="['/dashboard']"
+  [fixed]="true"
+  [navbarBrandFull]="{src: 'assets/img/brand/logo.png', width: 120}"
+  [sidebarToggler]="'lg'">
+  <cui-breadcrumb>
+    <!-- Breadcrumb Menu-->
+  </cui-breadcrumb>
+  <ul class="nav navbar-nav ml-auto pr-3 ">
+    <li class="nav-item d-lg-block d-xl-block d-sm-none d-md-none d-none"><span class="text-info mr-2">Bienvenido, {{goS001_Usuario.NombreCompleto}} <b></b></span></li>
+    <li class="nav-item d-lg-block d-xl-block d-sm-none d-md-none d-none"><span class="text-gray">|</span></li>
+    <li class="nav-item d-lg-block d-xl-block  d-md-none d-sm-block"><a onclick="window.location.href='/#/register'" class="btnSignOut btn-pointer">Cerrar Sesión</a></li>
+  </ul>
+</app-header>
+<div class="app-body">
+  <!-- <app-sidebar #appSidebar [fixed]="true" [display]="'lg'" [minimized]="sidebarMinimized" (minimizedChange)="toggleMinimize($event)"> -->
+    <app-sidebar #appSidebar [fixed]="true" [display]="'lg'">
+    <app-sidebar-nav [navItems]="navItems" [perfectScrollbar] [disabled]="appSidebar.minimized"></app-sidebar-nav>
+  </app-sidebar>
+  <!-- Main content -->
+  <main class="main">
+    <!-- Breadcrumb -->
+    <!-- breaking change 'cui-breadcrumb' -->
+
+
+    <div class="container-fluid pt-4 ">
+      <router-outlet></router-outlet>
+    </div><!-- /.container-fluid -->
+  </main>
+</div>

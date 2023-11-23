@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+KbhAPWauyPE3XuJeAorVHujfNNW6wCRh0KPmK/kS6/3l+7jPAWqO3tpH3fLAb4OOy6QRimlnIZKEGER88oMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Em\\Desktop\\PruebaTecnicaTawa\\PruebaTecnicaTawa\\BackEnd\\slnCEM.C001.BE\\CEM.C001.BE.Interface\\CEM.C001.BE.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Em\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Em\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

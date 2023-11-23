@@ -1,0 +1,25 @@
+.icon-size-2 {
+    &:before{
+        font-size: 3rem;
+        color: $celeste;
+    }
+}
+
+.dashboard-menu {
+    .card{
+    height: 200px;
+    }
+    .card-text {
+        line-height: 1;
+        margin-top: 0.9rem;
+    }
+    @media (min-width: 992px){
+        .col-lg-2 {
+        flex: 0 0 20%;
+        max-width: 20%;
+        }
+    }
+    @media (max-width: 768px){
+        padding: 0!important;
+    }
+}

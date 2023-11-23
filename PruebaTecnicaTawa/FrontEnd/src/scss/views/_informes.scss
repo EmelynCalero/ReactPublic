@@ -1,0 +1,24 @@
+.informes-table{
+    width: 100%;
+    margin-bottom: 1rem;
+    th, td {
+        padding: 0.6rem 1.2rem;
+    }
+    @media (max-width:768px){
+        display: block;
+        overflow-x: scroll;
+        margin-top: 1rem;
+    }
+}
+
+.examenes-table {
+    width: 100%;
+    margin-bottom: 1rem;
+    th, td {
+        padding: 0.6rem 1.2rem;
+    }
+    @media (max-width:768px){
+        overflow-x: scroll;
+        margin-top: 1rem;
+    }
+}

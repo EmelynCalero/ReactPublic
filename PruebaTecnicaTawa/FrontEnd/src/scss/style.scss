@@ -1,0 +1,16 @@
+// If you want to override variables do it here
+@import "variables";
+@import "fonts/font";
+// Import styles
+@import "~@coreui/coreui/scss/coreui";
+
+// If you want to add something do it here
+@import "custom";
+@import "layout/sidebar";
+@import "layout/stepper";
+@import "views/login";
+@import "views/dashboard";
+@import "views/micuenta";
+@import "views/miscitas";
+@import "views/informes";
+@import "views/teleconsulta";
